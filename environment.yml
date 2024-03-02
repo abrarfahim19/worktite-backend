@@ -3,22 +3,45 @@ channels:
   - defaults
 dependencies:
   - anyio=4.2.0=py312hca03da5_0
+  - argon2-cffi=21.3.0=pyhd3eb1b0_0
+  - argon2-cffi-bindings=21.2.0=py312h80987f9_0
+  - bcrypt=3.2.0=py312h80987f9_1
   - bzip2=1.0.8=h620ffc9_4
   - ca-certificates=2023.12.12=hca03da5_0
+  - certifi=2024.2.2=py312hca03da5_0
+  - cffi=1.16.0=py312h80987f9_0
   - click=8.1.7=py312hca03da5_0
+  - cryptography=41.0.7=py312hd4332d6_0
+  - ecdsa=0.17.0=pyhd3eb1b0_0
   - expat=2.5.0=h313beb8_0
   - fastapi=0.103.0=py312hca03da5_0
+  - future=0.18.3=py312hca03da5_0
+  - gmp=6.2.1=hc377ac9_3
   - h11=0.14.0=py312hca03da5_0
+  - httpcore=1.0.2=py312hca03da5_0
+  - httpx=0.26.0=py312hca03da5_0
   - idna=3.4=py312hca03da5_0
+  - iniconfig=1.1.1=pyhd3eb1b0_0
   - libcxx=14.0.6=h848a8c0_0
   - libffi=3.4.4=hca03da5_0
   - ncurses=6.4=h313beb8_0
   - openssl=3.0.13=h1a28f6b_0
+  - packaging=23.1=py312hca03da5_0
+  - passlib=1.7.4=pyhd3eb1b0_0
   - pip=23.3.1=py312hca03da5_0
+  - pluggy=1.0.0=py312hca03da5_1
+  - pyasn1=0.4.8=pyhd3eb1b0_0
+  - pycparser=2.21=pyhd3eb1b0_0
+  - pycryptodome=3.15.0=py312hf167f5b_0
   - pydantic=1.10.12=py312h80987f9_1
+  - pytest=7.4.0=py312hca03da5_0
   - python=3.12.1=h99e199e_0
+  - python-jose=3.3.0=pyhd3eb1b0_0
+  - python-multipart=0.0.6=py312hca03da5_0
   - readline=8.2=h1a28f6b_0
+  - rsa=4.7.2=pyhd3eb1b0_1
   - setuptools=68.2.2=py312hca03da5_0
+  - six=1.16.0=pyhd3eb1b0_1
   - sniffio=1.3.0=py312hca03da5_0
   - sqlite=3.41.2=h80987f9_0
   - starlette=0.27.0=py312hca03da5_0
